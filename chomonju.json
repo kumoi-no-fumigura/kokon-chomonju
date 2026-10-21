@@ -1,6 +1,7 @@
 {
  "work": "古今著聞集",
  "work_id": "chomonju",
+ "repo": "kumoi-no-fumigura/kokon-chomonju",
  "yomi": "ここんちょもんじゅう",
  "category": "説話",
  "editions": [
@@ -1564,6 +1565,5 @@
    ],
    "text": "084892-006-2918-Ko547M国文大観丸岡桂松下大三郎/編M36-39DBB-0087"
   }
- ],
- "repo": "kumoi-no-fumigura/kokon-chomonju"
+ ]
 }
